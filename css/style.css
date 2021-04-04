@@ -34,9 +34,9 @@ width:263px;
 }
 #reklama_top{
 width:263px;
-height:67px;(../images/reklama_top.jpg);
-background-repeat:no-re
-background-image: urlpeat;
+height:67px;
+background-image: url(../images/reklama_top.jpg);
+background-repeat:no-repeat;
 }
 #reklama_text{
 width:263px;
@@ -60,9 +60,4 @@ width:800px;
 height:28px;
 background-image: url(../images/footer.jpg);
 background-repeat: repeat-x;
-}
-body{
-width:800px;
-padding-left:50%;
-margin:0px;
 }
